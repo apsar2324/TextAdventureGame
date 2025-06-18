@@ -10,7 +10,7 @@ java -version
 2. Download the Game File
 You can:
 Clone your GitHub repo:
-git clone https://github.com/yourusername/TextAdventureGame.git
+git clone [https://github.com/yourusername/TextAdventureGame.git](https://github.com/apsar2324/TextAdventureGame/blob/main/Main.java)
 cd TextAdventureGame
 OR download the .java file directly from GitHub or Gist and save it as Main.java.
 
